@@ -1,3 +1,3 @@
 # Latent_Dirichlet_Allocation_Subtopic_Modelling
 
-Latent Dirichlet Allocation Subtopic Modelling Using RStudio
+Latent Dirichlet Allocation Topic Sub-Modelling Using RStudio
