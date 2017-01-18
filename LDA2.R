@@ -1,12 +1,3 @@
-##https://rpubs.com/cosmopolitanvan/topicmodellinglibrary(topicmodels)
-#https://rpubs.com/cosmopolitanvan/topicmodelling
-#http://videolectures.net/mlss09uk_blei_tm/
-#http://cpsievert.github.io/LDAvis/reviews/reviews.html
-#https://www.r-bloggers.com/a-link-between-topicmodels-lda-and-ldavis/
-#https://www.youtube.com/watch?v=IksL96ls4o0
-#https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/
-
-
 library(tm)
 library(LDAvis)
 library(NLP)
